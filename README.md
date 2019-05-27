@@ -18,7 +18,7 @@ Toda segunda-feira enviamos um email para a comunidade da CollabCode, nesse emai
 
 Quer ver um conteúdo de um amigo ou até o seu conteúdo sendo divulgado pelo [twitter da CollabCode](https://twitter.com/collabcodetech) fique a vontade e envie para gente.
 
-[Envie sua ideia agora](https://github.com/braziljs/weekly/issues).
+[Envie sua ideia agora](https://github.com/CollabCode/weekly/issues).
 
 ## Participe da comunidade da CollabCode
 
