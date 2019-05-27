@@ -1,6 +1,6 @@
 # CollabCode Weekly
 
-![CollabCode](https://raw.githubusercontent.com/collabcode/weekly/master/collabcode.png)
+![CollabCode](collabcode.png "Logo da CollabCode")
 
 Toda segunda-feira enviamos um email para a comunidade da CollabCode, nesse email tem uma história para eu me divertir escrevendo e espero que você se divirta lendo, em seguida as novidades da semana que acontecerá na CollabCode e por último o conteúdo da comunidade, como:
 
