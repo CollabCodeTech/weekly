@@ -18,7 +18,7 @@ Toda segunda-feira enviamos um email para a comunidade da CollabCode, nesse emai
 
 ## Envie sua ideia
 
-Quer ver um conteúdo de um amigo ou até o seu conteúdo sendo divulgado pelo [twitter da CollabCode](https://twitter.com/collabcodetech) fique a vontade e envie para gente.
+Quer ver um conteúdo de um amigo ou até o seu conteúdo sendo divulgado pelo [twitter da CollabCode](https://twitter.com/collabcodetech)? Fique a vontade e o envie para a gente.
 
 [Envie sua ideia agora](https://github.com/CollabCodeTech/weekly/issues).
 
@@ -30,6 +30,6 @@ Nosso canal principal de divulgação e tudo mais é o Discord, entre em nosso s
 
 ### Nossa grande referência
 
-Esse sistema de conseguir fazer a comunidade contribuir com nossa weekly foi totalmente referênciada no sistema que não sei se foi criado pela BrazilJS mas foir por onde conheci. Recomendo você também indicar o seu conteúdo na weekly deles, principamente se o tema for JS 😄
+Esse sistema de conseguir fazer a comunidade contribuir com nossa weekly foi totalmente referênciada no sistema que não sei se foi criado pela BrazilJS mas foi por onde conheci. Recomendo você também indicar o seu conteúdo na weekly deles, principalmente se o tema for JS 😄
 
 [BrazilJS Weekly](https://github.com/braziljs/weekly)
