@@ -2,6 +2,8 @@
 
 ![CollabCode](collabcode.png "Logo da CollabCode")
 
+[Envie sua ideia agora e apareça no twitter e weekly da CollabCode](https://github.com/CollabCode/weekly/issues).
+
 Toda segunda-feira enviamos um email para a comunidade da CollabCode, nesse email tem uma história para eu me divertir escrevendo e espero que você se divirta lendo, em seguida as novidades da semana que acontecerá na CollabCode e por último o conteúdo da comunidade, como:
 
 - Post;
